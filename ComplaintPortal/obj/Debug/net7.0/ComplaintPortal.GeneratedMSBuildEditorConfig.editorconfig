@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ComplaintPortal
+build_property.RootNamespace = ComplaintPortal
+build_property.ProjectDir = E:\Recording\8.DotNet\prog\Websites\ComplaintPortal\ComplaintPortal\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Recording\8.DotNet\prog\Websites\ComplaintPortal\ComplaintPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Employees/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEFkZEVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Employees/EmployeeListIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVtcGxveWVlTGlzdEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Employees/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Employees/ViewEmployeeLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFZpZXdFbXBsb3llZUxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Employees/ViewLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFZpZXdMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Users/AddComplaint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQWRkQ29tcGxhaW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Users/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Recording/8.DotNet/prog/Websites/ComplaintPortal/ComplaintPortal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mqky1chcsk

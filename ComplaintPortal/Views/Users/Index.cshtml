@@ -1,0 +1,28 @@
+﻿@model List<ComplaintPortal.Models.Domain.User>
+@{
+}
+<h1>User Complaints</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Complaint</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>@user.Complaint</td>
+                <td>@user.Status</td>
+                <td><a href="Users/View/@user.Id">View</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

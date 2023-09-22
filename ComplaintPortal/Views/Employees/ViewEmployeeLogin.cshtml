@@ -1,0 +1,19 @@
+﻿@model ComplaintPortal.Models.LoginEmployeeViewModel
+@{
+}
+
+<h1>Employee Login</h1>
+<form method="post" action="ViewEmployeeLogin" class="mt-5">
+    <div class="mb-3">
+        <label for="" class="form-label">Email</label>
+        <input type="email" class="form-control" required asp-for="Email">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Password</label>
+        <input type="password" class="form-control" required asp-for="Password">
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>

@@ -1,0 +1,31 @@
+﻿@model ComplaintPortal.Models.AddEmployeeViewModel
+@{
+}
+
+<h1>Employee Registration</h1>
+<form method="post" action="AddEmployee" class="mt-5">
+    <div class="mb-3">
+        <label for="" class="form-label">Email</label>
+        <input type="email" class="form-control" required asp-for="Email">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Password</label>
+        <input type="password" class="form-control" required asp-for="Password">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Name</label>
+        <input type="text" class="form-control" required asp-for="Name">
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Date of Birth</label>
+        <input type="date" class="form-control" required asp-for="DateOfBirth">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Department</label>
+        <input type="text" class="form-control" required asp-for="Department">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>

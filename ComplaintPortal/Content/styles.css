@@ -1,0 +1,6 @@
+﻿/* styles.css */
+body {
+    background-image: url("/Content/wp1814336-margot-robbie-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /* Adjust the image size to cover the entire body */
+}

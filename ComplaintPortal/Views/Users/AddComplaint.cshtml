@@ -1,0 +1,25 @@
+﻿@model ComplaintPortal.Models.AddComplaintViewModel
+@{
+}
+@using System.ComponentModel.DataAnnotations;
+
+<h1>Add Complaint</h1>
+
+<form method="post" class="mt-5" action="AddComplaint">
+    <div class="mb-3">
+        <label for="" class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="Name">      
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Email</label>
+        <input type="email" class="form-control" asp-for="Email">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Complaint</label>      
+        <textarea class="form-control" rows="5" cols="3" asp-for="Complaint"></textarea>
+    </div>
+ 
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
